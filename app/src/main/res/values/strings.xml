@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraExample</string>
+    <string name="show_auth_dialog">Show Auth Dialog</string>
+    <string name="user_name">User Name/ Ref Id</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+</resources>
